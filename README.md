@@ -1,1 +1,2 @@
 # Personal-Portfolio
+This is my personal portfolio website created using HTML, CSS, and JavaScript. It includes sections like Home, About, Skills, Projects, and Contact to showcase my profile, technical abilities, and work. I designed the layout, styled it for different devices, and added simple JavaScript features. After testing it on various browsers. This project helped me strengthen my front-end development skills and serves as an online platform to present myself professionally.
