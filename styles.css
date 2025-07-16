@@ -1,0 +1,70 @@
+html, body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: #fffdf2 !important;
+  color: #1b4d3e;
+}
+h1, h2, h3, h4, h5, h6 {
+  color: #1b4d3e;
+  font-weight: 700;
+}
+.navbar, .navbar.bg-white, .navbar-light, footer, .bg-dark {
+  background: #265c4b !important;
+  color: #fff !important;
+}
+.navbar .navbar-brand, .navbar .nav-link {
+  color: #fff !important;
+  font-weight: 600;
+}
+.navbar .nav-link.active, .navbar .nav-link:focus, .navbar .nav-link:hover {
+  color: #ffd600 !important;
+}
+.text-accent { color: #ffd600; font-weight: 700; }
+.btn-primary {
+  background: #1b4d3e !important;
+  border-color: #1b4d3e !important;
+  color: #fff !important;
+}
+.btn-primary:hover, .btn-primary:focus {
+  background: #265c4b !important;
+  border-color: #265c4b !important;
+}
+.btn-outline-primary {
+  color: #1b4d3e !important;
+  border-color: #1b4d3e !important;
+}
+.btn-outline-primary:hover, .btn-outline-primary:focus {
+  background: #1b4d3e !important;
+  color: #fff !important;
+}
+.rounded-circle {
+  box-shadow: 0 4px 24px 0 rgba(0,0,0,0.08);
+}
+.section-content {
+  background: transparent; 
+  margin-bottom: 32px;
+}
+.container {
+  background: transparent; 
+}
+.skills-card, .about-badge, .card, .project-card {
+  background: #fff;
+  box-shadow: 0 2px 12px 0 rgba(27,77,62,0.04);
+  border-radius: 14px;
+}
+
+.skills-icon {
+  width: 54px; height: 54px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 32px; color: #fff; margin: 0 auto 8px auto;
+}
+.skills-pill {
+  display: inline-block; background: #f2f5f7; color: #1b4d3e; border-radius: 18px; padding: 0.35em 18px; font-size: 16px; margin: 4px 6px; font-weight: 500;
+}
+.project-img-wrapper {
+  width: 100%; height: 280px; overflow: hidden; background: #f2f2f2; border-top-left-radius: 8px; border-top-right-radius: 8px;
+}
+.project-img {
+  width: 100%; height: 100%; object-fit: cover; display: block;
+}
+.contact-icon {
+  width: 44px; height: 44px; display: flex; align-items: center; justify-content: center; background: #f2f2f2; border-radius: 50%;
+}
+footer { font-size: 1rem; }
